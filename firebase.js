@@ -7,7 +7,7 @@ import { getAnalytics } from "firebase/analytics";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyAwYP91hB8wmFiWihptuX6lBfWdhTlZDWE",
+  apiKey: "MYKEY",
   authDomain: "inventory-management-app-96dee.firebaseapp.com",
   projectId: "inventory-management-app-96dee",
   storageBucket: "inventory-management-app-96dee.appspot.com",
